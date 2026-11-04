@@ -1,0 +1,178 @@
+[
+  {
+    "id": "Q1",
+    "winner": "fixed",
+    "fixed": {
+      "precision": 0.6666666666666666,
+      "coverage": 1.0,
+      "retrieved_ids": [
+        "fixed::expense_policy.md::0",
+        "fixed::expense_policy.md::2",
+        "fixed::expense_policy.md::1"
+      ]
+    },
+    "section": {
+      "precision": 0.3333333333333333,
+      "coverage": 1.0,
+      "retrieved_ids": [
+        "section::expense_policy.md::0",
+        "section::expense_policy.md::1",
+        "section::expense_policy.md::2"
+      ]
+    }
+  },
+  {
+    "id": "Q2",
+    "winner": "fixed",
+    "fixed": {
+      "precision": 0.6666666666666666,
+      "coverage": 1.0,
+      "retrieved_ids": [
+        "fixed::expense_policy.md::5",
+        "fixed::expense_policy.md::4",
+        "fixed::expense_policy.md::1"
+      ]
+    },
+    "section": {
+      "precision": 0.3333333333333333,
+      "coverage": 1.0,
+      "retrieved_ids": [
+        "section::expense_policy.md::2",
+        "section::expense_policy.md::0",
+        "section::expense_policy.md::1"
+      ]
+    }
+  },
+  {
+    "id": "Q3",
+    "winner": "section",
+    "fixed": {
+      "precision": 0.0,
+      "coverage": 0.0,
+      "retrieved_ids": [
+        "fixed::remote_work_policy.md::3",
+        "fixed::security_handbook.md::0",
+        "fixed::leave_policy.md::0"
+      ]
+    },
+    "section": {
+      "precision": 0.3333333333333333,
+      "coverage": 1.0,
+      "retrieved_ids": [
+        "section::remote_work_policy.md::2",
+        "section::security_handbook.md::0",
+        "section::leave_policy.md::0"
+      ]
+    }
+  },
+  {
+    "id": "Q4",
+    "winner": "tie",
+    "fixed": {
+      "precision": 0.6666666666666666,
+      "coverage": 1.0,
+      "retrieved_ids": [
+        "fixed::onboarding_guide.md::3",
+        "fixed::remote_work_policy.md::0",
+        "fixed::remote_work_policy.md::1"
+      ]
+    },
+    "section": {
+      "precision": 0.6666666666666666,
+      "coverage": 1.0,
+      "retrieved_ids": [
+        "section::remote_work_policy.md::0",
+        "section::onboarding_guide.md::2",
+        "section::remote_work_policy.md::3"
+      ]
+    }
+  },
+  {
+    "id": "Q5",
+    "winner": "section",
+    "fixed": {
+      "precision": 0.3333333333333333,
+      "coverage": 1.0,
+      "retrieved_ids": [
+        "fixed::leave_policy.md::1",
+        "fixed::leave_policy.md::0",
+        "fixed::leave_policy.md::3"
+      ]
+    },
+    "section": {
+      "precision": 0.6666666666666666,
+      "coverage": 1.0,
+      "retrieved_ids": [
+        "section::leave_policy.md::1",
+        "section::leave_policy.md::0",
+        "section::leave_policy.md::2"
+      ]
+    }
+  },
+  {
+    "id": "Q6",
+    "winner": "section",
+    "fixed": {
+      "precision": 0.3333333333333333,
+      "coverage": 0.5,
+      "retrieved_ids": [
+        "fixed::security_handbook.md::2",
+        "fixed::security_handbook.md::0",
+        "fixed::security_handbook.md::1"
+      ]
+    },
+    "section": {
+      "precision": 0.3333333333333333,
+      "coverage": 1.0,
+      "retrieved_ids": [
+        "section::security_handbook.md::1",
+        "section::security_handbook.md::0",
+        "section::remote_work_policy.md::2"
+      ]
+    }
+  },
+  {
+    "id": "Q7",
+    "winner": "tie",
+    "fixed": {
+      "precision": 0.3333333333333333,
+      "coverage": 1.0,
+      "retrieved_ids": [
+        "fixed::office_faq.md::2",
+        "fixed::office_faq.md::0",
+        "fixed::remote_work_policy.md::3"
+      ]
+    },
+    "section": {
+      "precision": 0.3333333333333333,
+      "coverage": 1.0,
+      "retrieved_ids": [
+        "section::office_faq.md::0",
+        "section::remote_work_policy.md::1",
+        "section::onboarding_guide.md::2"
+      ]
+    }
+  },
+  {
+    "id": "Q8",
+    "winner": "tie",
+    "fixed": {
+      "precision": 0.3333333333333333,
+      "coverage": 1.0,
+      "retrieved_ids": [
+        "fixed::leave_policy.md::3",
+        "fixed::leave_policy.md::4",
+        "fixed::leave_policy.md::2"
+      ]
+    },
+    "section": {
+      "precision": 0.3333333333333333,
+      "coverage": 1.0,
+      "retrieved_ids": [
+        "section::leave_policy.md::2",
+        "section::leave_policy.md::1",
+        "section::leave_policy.md::0"
+      ]
+    }
+  }
+]
